@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Samarth Dwivedi, a dedicated and enthusiastic developer with a strong interest in crafting clean, efficient, and scalable web applications. I specialize in front-end technologies like HTML5, CSS3, JavaScript, and have hands-on experience with modern frameworks such as React.js and Bootstrap. I'm also exploring backend development using Node.js and Express, and continually expanding my skills in MongoDB, Git/GitHub, and RESTful APIs. Passionate about building impactful projects and contributing to open-source, I’m always looking to improve my problem-solving abilities and stay updated with emerging tech trends. Let's build something amazing!.<br><br>
+I'm Samarth Dwivedi, a dedicated and enthusiastic full stack developer with a strong interest in crafting clean, efficient, and scalable web applications. I specialize in front-end technologies like HTML5, CSS3, JavaScript, and have hands-on experience with modern frameworks such as React.js and Bootstrap. I'm also exploring backend development using Node.js and Express, and continually expanding my skills in MongoDB, Git/GitHub, and RESTful APIs. Passionate about building impactful projects and contributing to open-source, I’m always looking to improve my problem-solving abilities and stay updated with emerging tech trends. Let's build something amazing!.<br>
+My goal is to become a proficient full-stack developer who builds impactful, user-centric applications while continuously learning and contributing to the tech community.<br><br>
 
 
 ## 🌐 Socials:
